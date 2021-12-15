@@ -4,9 +4,9 @@
 
 ## Schedule
 
-|     Name     |            Status             |
-| :----------: | :---------------------------: |
-|     Vim      | :negative_squared_cross_mark: |
-|   VS Code    |      :white_check_mark:       |
-| Terminal zsh | :negative_squared_cross_mark: |
+|                             Name                             |            Status             |
+| :----------------------------------------------------------: | :---------------------------: |
+|                             Vim                              | :negative_squared_cross_mark: |
+| [VS Code](https://github.com/masterX89/cheat-sheet/blob/main/VS%20Code/Cheat-Sheet.md) |      :white_check_mark:       |
+|                         Terminal zsh                         | :negative_squared_cross_mark: |
 
