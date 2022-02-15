@@ -18,6 +18,12 @@
 |   删除本行   | `Ctrl` `u` |         |            |
 | 删除光标右侧 | `Ctrl` `k` |         |            |
 
+## 撤销
+
+|   Command    | Keybinding | Command | Keybinding |
+| :----------: | :--------: | ------- | ---------- |
+| 撤销上次操作 | `Ctrl` `y` |         |            |
+
 ## 符号标识
 
 | symbol |  keybord   | symbol |   keybord   |
