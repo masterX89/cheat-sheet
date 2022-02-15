@@ -26,6 +26,11 @@
 | Add Selection To Next Find Match |   ⌃ `g`    | Select All Occurrences of Find Match |  ⌃ ⌘ `g`   |
 |         Expand Selection         |    ⌥ ↑     |           Shrink Selection           |    ⌥ ↓     |
 
+|             Command              | Keybinding |               Command                |        Keybinding        |
+| :------------------------------: | :--------: | :----------------------------------: | :----------------------: |
+| Add Selection To Next Find Match | `Alt` `j`  | Select All Occurrences of Find Match | `Ctrl` `Shift` `Alt` `j` |
+|         Expand Selection         | `Ctrl` `w` |           Shrink Selection           |    `Ctrl` `Shift` `w`    |
+
 ## 复制
 
 |    Command     | Keybinding | Command | Keybinding |
