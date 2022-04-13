@@ -60,6 +60,14 @@
 | Fold | ⌘ `-` |   Unfold   | ⌘ `=` |
 | Fold Level `Number` | ⌘ `k` ⌘ `number` |            |  |
 
+## 重构
+
+|    Command    | Keybinding | Command | Keybinding |
+| :-----------: | :--------: | :-----: | :--------: |
+| Rename Symbol |   ⇧ `F6`   |         |            |
+
+
+
 ## 符号标识
 
 | symbol |  keybord   | symbol |   keybord   |
